@@ -33,4 +33,4 @@ To view the original CSV data, follow these steps:
 
 **Blog & Additional Resources**
 For a detailed explanation, check out the **SAP Blog**:
-📌 
+📌 https://community.sap.com/t5/technology-blogs-by-members/fetching-security-materials-in-sap-cpi-and-sending-it-as-a-pgp-encrypted/ba-p/14011652
