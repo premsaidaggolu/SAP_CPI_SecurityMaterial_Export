@@ -11,10 +11,10 @@ This SAP Cloud Integration (CPI) artifact automates the retrieval of **User Cred
 
 Installation
 Import the Artifact into SAP CPI
-1. Download the **iFlow artifact (.zip)** from this repository (`iFlow/` folder).
+1. Download the **Security Material Export with PGP Encryption.zip** from this repository.
 2. Log in to **SAP CPI**.
 3. Navigate to **Design > Your Package > Artifacts > Add > Integration Flow**.
-4. Click **Import** and upload the `.zip` file.
+4. Click **Import** and upload the `Security Material Export with PGP Encryption.zip` file.
 5. Configure Required Parameters  
 **Click on Configuration**, update the following properties:
 **CPI Receiver** --> Authentication, Credential Name  
