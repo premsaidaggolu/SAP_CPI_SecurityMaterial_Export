@@ -1,0 +1,22 @@
+#
+#Sun Feb 09 11:56:19 UTC 2025
+To\ Mail=tomail@gmail.com
+Mail\ Address=smtp.gmail.com\:465
+Mail\ Credential=Gmail_Cred
+HTTP\ Credential\ Name=CPI_OAuth
+Mail\ Recipient=premsai.daggolu@gmail.com
+Compression\ Algorithm=ZLIB
+Tenant\ URL=8eccaf2dtrial.it-cpitrial06.cfapps.us10-001.hana.ondemand.com
+HTTP\ Authentication=OAuth2 Client Credentials
+Secret\ Key\ Length=256
+Log\ File\ as\ Attachment=true
+Mail\ Protection=smtps
+Mail\ Auth=loginPlain
+PGP\ Public\ Key=Credentials
+Mail\ CC=
+Seheduler=<row><cell>dateType</cell><cell>SIMPLE</cell></row><row><cell>secondValue</cell><cell>0</cell></row><row><cell>minutesValue</cell><cell></cell></row><row><cell>hourValue</cell><cell></cell></row><row><cell>toInterval</cell><cell>1</cell></row><row><cell>fromInterval</cell><cell>0</cell></row><row><cell>OnEveryMinute</cell><cell>1</cell></row><row><cell>timeType</cell><cell>TIME_INTERVAL</cell></row><row><cell>timeZone</cell><cell>( UTC 0\:00 ) Greenwich Mean Time(Etc/GMT)</cell></row><row><cell>throwExceptionOnExpiry</cell><cell>true</cell></row><row><cell>second</cell><cell>*</cell></row><row><cell>minute</cell><cell>*</cell></row><row><cell>hour</cell><cell>*</cell></row><row><cell>day_of_month</cell><cell>?</cell></row><row><cell>month</cell><cell>*</cell></row><row><cell>dayOfWeek</cell><cell>*</cell></row><row><cell>year</cell><cell>*</cell></row><row><cell>startAt</cell><cell></cell></row><row><cell>endAt</cell><cell></cell></row><row><cell>attributeBehaviour</cell><cell>isThrowExceptionOnExpiryVisible,isScheduleAdvancedVisible,isScheduleAdvancedStartEndVisible,isScheduleSimpleVisible</cell></row><row><cell>triggerType</cell><cell>cron</cell></row><row><cell>noOfSchedules</cell><cell>1</cell></row><row><cell>schedule1</cell><cell>simple.repeat\=NONE&amp;trigger.timeZone\=Etc/GMT</cell></row>
+From\ Mail=frommail@gmail.com
+Mail\ Proxy\ Type=none
+Signatures=NoSignature
+Mail\ Subject=Confidential - SAP CPI Security Material
+Encryption\ Algorithm=AES
