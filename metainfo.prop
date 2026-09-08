@@ -1,0 +1,3 @@
+#Store metainfo properties
+#Sun Feb 09 11:56:19 UTC 2025
+description=This iFlow retrieves User Credentials, OAuth2 Client Credentials and Secure Parameters from Security Material, formats them into a CSV file, encrypts it using PGP and sends it as an email attachment
